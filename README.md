@@ -55,20 +55,3 @@ License
 -------
 
 This project is released under the MIT License. See [LICENSE](LICENSE) for details.
-
-Maintainers / Contact
----------------------
-
-Create an issue or open a PR on GitHub. Add your email in `pubspec.yaml` if you want direct contact listed.
-
-Notes
------
-
-This README is a starting point for open-sourcing the project. If you'd like, I can:
-
-- Add CI (GitHub Actions) to run tests and format checks
-- Create a release checklist and repository labels
-- Replace placeholder repository links with your GitHub username
-
----
-Updated to be suitable for publishing on GitHub.
